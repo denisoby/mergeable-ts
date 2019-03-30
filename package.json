@@ -1,0 +1,11 @@
+{
+  "name": "mergeable-ts",
+  "version": "0.0.1",
+  "description": "Library providing simple way to make changes into typescripts, much simplier than working with AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Obydennykh",
+  "license": "ISC"
+}
