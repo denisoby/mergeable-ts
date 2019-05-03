@@ -1,0 +1,2 @@
+class xxxTest1 {
+}
