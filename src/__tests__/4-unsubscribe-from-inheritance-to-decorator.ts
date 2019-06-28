@@ -23,3 +23,7 @@ class X
         // super.ngOnDestroy();
     }
 }
+
+
+// todo 1 - conditionally remove super() && super.ngOnDestroy()
+// todo 2 - add ngOnDestroy if missing
