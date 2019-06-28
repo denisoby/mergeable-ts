@@ -1,5 +1,5 @@
 // @tsmod:remove
-// import { Unsubscribe } from ‘some-utils’;
+// import { Unsubscribe } from 'some-utils';
 // @tsmod:add
 import { Subscription } from 'rxjs'; // create if doesn’t exist
 
