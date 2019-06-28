@@ -81,18 +81,21 @@ class xxx2e {
 // before
 
 const enum TypeEnum {
-    TypeA = 'TypeA'
+    TypeA = 'TypeA',
+    TypeB = 'TypeB'
 }
 
 const enum CellRendererEnum {
-    NumberCellRenderer = 'NumberCellRenderer'
+    NumberCellRenderer = 'NumberCellRenderer',
+    TextCellRenderer = 'TextCellRenderer',
 }
 
 const a = {
     width: 123,
     height: 431,
-    cellType: 
-}
+    cellType: TypeEnum.TypeA,
+    /* handler */ cellRenderer: CellRendererEnum.NumberCellRenderer
+};
                                                                                    
                                                                                    
                                                                                    
